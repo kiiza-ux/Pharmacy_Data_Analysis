@@ -27,9 +27,9 @@ The dataset consists of **123,944 records**, capturing details of dispensed medi
 - **Subtotal** – Total cost of the dispensed item(s).  
 
 ## **Key Findings**  
-📌 **Most Dispensed Medications:** Identified top drugs in high demand.  
-📌 **Age Group Trends:** Young adults (20-39) have high antipsychotic usage, possibly linked to mental health trends.  
-📌 **Seasonal Fluctuations:** Patient visits dropped after July due to **the opening of additional departments (Orthopedic & Community Pharmacy), redistributing patient load**.    
+**Most Dispensed Medications:** Identified top drugs in high demand.  
+**Age Group Trends:** Young adults (20-39) have high antipsychotic usage, possibly linked to mental health trends.  
+**Seasonal Fluctuations:** Patient visits dropped after July due to **the opening of additional departments (Orthopedic & Community Pharmacy), redistributing patient load**.    
 
 ## **Technologies Used**  
 **Python (Pandas, Matplotlib, Seaborn, Plotly)** for data analysis & visualization.  
